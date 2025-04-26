@@ -28,6 +28,15 @@ Este proyecto documenta el análisis de seguridad realizado sobre mi red domést
 
 Este análisis fue realizado en un entorno controlado (mi red doméstica personal) con fines educativos. No se realizaron ataques activos ni explotación de vulnerabilidades.
 
+
+## 🖼️ Evidencias del proceso
+
+A continuación se presentan capturas del escaneo y análisis realizados (datos sensibles censurados por seguridad):
+
+![Escaneo de red y descubrimiento de hosts](./evidencias/censurada_1.png)
+![Escaneo de puertos del router](./evidencias/censurada_2.png)
+
+
 ## ✉️ Contacto
 
 antuansabe
